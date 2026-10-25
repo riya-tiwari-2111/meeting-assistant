@@ -1,0 +1,16 @@
+playwright
+pyaudiowpatch
+soundfile
+numpy
+scipy
+requests
+python-dotenv
+groq
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+pypdf
+sentence-transformers
+chromadb
+streamlit

@@ -1,0 +1,11 @@
+@"
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+data/meetings/
+.pytest_cache/
+.streamlit/secrets.toml
+"@ | Out-File -FilePath .gitignore -Encoding utf8
